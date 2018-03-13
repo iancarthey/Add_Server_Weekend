@@ -1,0 +1,22 @@
+{
+  "name": "add_server_weekend",
+  "version": "1.0.0",
+  "description": "add server to weekend assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iancarthey/add_server_weekend.git"
+  },
+  "author": "Ian Carthey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iancarthey/add_server_weekend/issues"
+  },
+  "homepage": "https://github.com/iancarthey/add_server_weekend#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
